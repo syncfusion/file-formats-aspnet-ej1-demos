@@ -10,7 +10,7 @@ This section guides to use to Syncfusion file format ASP.NET (EJ1) product sampl
 * [Using the samples](#using-the-samples)
 * [How to run the samples](#how-to-run-the-samples) 
 * [Controls catalog](#controls-catalog)
-* [Support and Feedback](#support-and-feedback)
+* [Support and Feedback](#support-and-feedback) 
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
