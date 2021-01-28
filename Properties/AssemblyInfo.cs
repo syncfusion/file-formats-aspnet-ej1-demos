@@ -1,5 +1,5 @@
-#region Copyright Syncfusion Inc. 2001-2020.
-// Copyright Syncfusion Inc. 2001-2020. All rights reserved.
+#region Copyright Syncfusion Inc. 2001-2021.
+// Copyright Syncfusion Inc. 2001-2021. All rights reserved.
 // Use of this code is subject to the terms of our license.
 // A copy of the current license can be obtained at any time by e-mailing
 // licensing@syncfusion.com. Any infringement will be prosecuted under
@@ -18,7 +18,7 @@ using System.Web.UI;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Syncfusion Inc.")]
 [assembly: AssemblyProduct("WebSampleBrowser")]
-[assembly: AssemblyCopyright("Copyright © 2001-2020 Syncfusion Inc.")]
+[assembly: AssemblyCopyright("Copyright © 2001-2021 Syncfusion Inc.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: TagPrefix("AspSamplebrowser", "Sync")]
@@ -40,5 +40,5 @@ using System.Web.UI;
 //
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("18.4.0.30")]
-[assembly: AssemblyFileVersion("18.4.0.30")]
+[assembly: AssemblyVersion("18.4.0.39")]
+[assembly: AssemblyFileVersion("18.4.0.39")]
